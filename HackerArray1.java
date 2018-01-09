@@ -1,4 +1,7 @@
 
+
+Link to Problem of HackerRank:   https://www.hackerrank.com/challenges/arrays-ds/problem
+
 import java.util.Scanner;
 import java.util.ArrayList;
 
